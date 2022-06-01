@@ -12,3 +12,4 @@
 
 ENLACES PARA CUALQUIER LUGAR
 https://addons.mozilla.org/es/firefox/addon/multithreaded-download-manager/
+https://es.acervolima.com/construya-un-arbol-binario-completo-usando-su-recorrido-de-preorden-y-el-recorrido-de-preorden-de-su-arbol-espejo/
